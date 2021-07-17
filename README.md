@@ -11,6 +11,8 @@ Using the [IMDB Dataset](https://www.kaggle.com/ymanojkumar023/kumarmanoj-bag-of
 
 ## Code
 - Get data: download [IMDB Dataset](https://www.kaggle.com/ymanojkumar023/kumarmanoj-bag-of-words-meets-bags-of-popcorn) and [Glove embeddings](http://nlp.stanford.edu/data/glove.6B.zip)
+- Make sure downloaded data and glove embeddings are in the same directory as Final_Project(CNN_and_LSTM).py.
+- Run Final_Project(CNN_and_LSTM).py
 
 ## Final Group Presentation
 This is a presentation of the project.
