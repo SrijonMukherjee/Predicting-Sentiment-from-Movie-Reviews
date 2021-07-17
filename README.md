@@ -1,5 +1,5 @@
 # Predict Sentiment from Movie Reviews
-Sentiment analysis using IMDB dataset with CNN and LSTM
+Using the [IMDB Dataset](https://www.kaggle.com/ymanojkumar023/kumarmanoj-bag-of-words-meets-bags-of-popcorn), sentiment was derived from movie reviews using LSTM and CNN models.
 
 ## Content
 
@@ -13,10 +13,10 @@ Sentiment analysis using IMDB dataset with CNN and LSTM
 - Get data: download [IMDB Dataset](https://www.kaggle.com/ymanojkumar023/kumarmanoj-bag-of-words-meets-bags-of-popcorn) and [Glove embeddings](http://nlp.stanford.edu/data/glove.6B.zip)
 
 ## Final Group Presentation
-- Include a powerpoint presentation for our group presentation in PDF file named 'Final-Group-Presentation.pdf'
+This is a presentation of the project.
 
 ## Final Group Project Report
-- Include a ﬁnal group project report in PDF file named 'Final-Group-Project-Report.pdf'
+This includes a report of the project detailing the steps we took, our outcomes, conclusions, and things we could do to improve or extend this project.
 
 ## Group Proposal
-- Include a ﬁnal group proposal in PDF file named 'Group Proposal.pdf'
+Includes our initial proposal for the project.
